@@ -201,3 +201,7 @@ main:
 	.ident	"GCC: (GNU) 16.1.1 20260430"
 	.section	.note.GNU-stack,"",@progbits
 ```
+
+## Апгрейд до модульной и параллельной
+Ну, здесь только main а исходники я прикрепил в [папке](programs/).
+![скриншот из vsc](screenshots/concurrent_factorial.png)
