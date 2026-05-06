@@ -1,13 +1,13 @@
 # Лабораторная 2 - Установка Linux (развертка, bootstraping)
 ## Создание виртуальной машины.
-[Всё в видео](video/downloading_task2.mp4)
+![Всё в видео](video/downloading_task2.mp4)
 
 # Лабораторная работа 1 - Написание программ
 Нус, буду я писать на C++(он мне сильно ближе).
 ## Для начала установим компилятор 
-[Установка tool-kit](screenshots/dev-kit-download.png)
+![Установка tool-kit](screenshots/dev-kit-download.png)
 Начнём с простых программ, я решил выбрать вычисление факториала, подключился по ранее настроенному SSH и написал программу(так проще).
-[написание программы](screenshots/simple_factorial_code.png)
+![написание программы](screenshots/simple_factorial_code.png)
 Теперь исходные .s файлы  с моими комментариями:
 ## O0:
 ```asm
