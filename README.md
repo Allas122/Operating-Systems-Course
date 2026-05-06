@@ -205,3 +205,7 @@ main:
 ## Апгрейд до модульной и параллельной
 Ну, здесь только main а исходники я прикрепил в [папке](programs/).
 ![скриншот из vsc](screenshots/concurrent_factorial.png)
+
+# Лабораторная 3a. Реализация скрипта bash
+Вариант 4.
+![скриншот из vsc](screenshots/ssh_variant4.png)
