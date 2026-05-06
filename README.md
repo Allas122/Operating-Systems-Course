@@ -1,6 +1,6 @@
 # Лабораторная 2 - Установка Linux (развертка, bootstraping)
 ## Создание виртуальной машины.
-https://github.com/Allas122/Operating-Systems-Course/blob/main/video/downloading_task2.mp4
+<video src="video/downloading_task2.mp4" controls width="100%"></video>
 
 # Лабораторная работа 1 - Написание программ
 Нус, буду я писать на C++(он мне сильно ближе).
