@@ -1,6 +1,6 @@
 # Лабораторная 2 - Установка Linux (развертка, bootstraping)
 ## Создание виртуальной машины.
-<video src="video/downloading_task2.mp4" controls width="100%"></video>
+[Всё в видео](video/downloading_task2.mp4)
 
 # Лабораторная работа 1 - Написание программ
 Нус, буду я писать на C++(он мне сильно ближе).
