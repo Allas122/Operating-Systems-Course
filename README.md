@@ -232,3 +232,25 @@ else
     rm "$OUTPUT_FILE"
 fi
 ```
+# Лабораторная 3a. Реализация скрипта ps1
+[Вариант 4.](programs/powershell)
+![скриншот из vsc](screenshots/ps_variant4.png)
+```ps1
+param (
+    [Parameter(Mandatory=$true)]
+    [string]$SearchStr
+)
+
+$OutputFile = "found_files.txt"
+
+$results = Get-ChildItem -Recurse -Filter "*.txt" | 
+           Select-String -Pattern $SearchStr | 
+           Select-Object -Unique Path
+
+if ($results) {
+    $results.Path | Out-File -FilePath $OutputFile -Encoding utf8
+    Write-Host "Done. Check $OutputFile"
+} else {
+    Write-Host "No matches found."
+}
+```
