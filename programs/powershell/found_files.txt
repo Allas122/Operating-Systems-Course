@@ -1,0 +1,4 @@
+﻿D:\wuz\OS\repo\programs\powershell\apple.txt
+D:\wuz\OS\repo\programs\powershell\found_files.txt
+D:\wuz\OS\repo\programs\powershell\texts\dd.txt
+D:\wuz\OS\repo\programs\powershell\texts\folder\b.txt
