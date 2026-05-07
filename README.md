@@ -208,7 +208,7 @@ main:
 
 # Лабораторная 3a. Реализация скрипта bash
 [Вариант 4.](programs/bash)
-![скриншот из vsc](screenshots/ssh_variant4.png)
+![скриншот из vsc](screenshots/sh_variant4.png)
 
 ```bash
 #!/bin/bash
