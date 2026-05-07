@@ -208,7 +208,7 @@ main:
 
 # Лабораторная 3a. Реализация скрипта bash
 [Вариант 4.](programs/bash)
-![скриншот из vsc](screenshots/ssh_variant4.png)
+![скриншот из vsc](screenshots/sh_variant4.png)
 
 ```bash
 #!/bin/bash
@@ -232,7 +232,7 @@ else
     rm "$OUTPUT_FILE"
 fi
 ```
-# Лабораторная 3a. Реализация скрипта ps1
+# Лабораторная 3b. Реализация скрипта ps1
 [Вариант 4.](programs/powershell)
 ![скриншот из vsc](screenshots/ps_variant4.png)
 ```ps1
